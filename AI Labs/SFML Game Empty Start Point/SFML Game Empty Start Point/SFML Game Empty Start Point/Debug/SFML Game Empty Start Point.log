@@ -1,0 +1,39 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SFML Game Empty Start Point.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Game.cpp
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(16,82): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(19,77): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(71,29): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(75,30): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(79,29): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(83,30): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(150,114): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(150,114): warning C4244:         with
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(150,114): warning C4244:         [
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(150,114): warning C4244:             T=unsigned int
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(150,114): warning C4244:         ]
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(150,69): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(150,69): warning C4244:         with
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(150,69): warning C4244:         [
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(150,69): warning C4244:             T=unsigned int
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(150,69): warning C4244:         ]
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(151,15): warning C4244:  'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(151,15): warning C4244:         with
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(151,15): warning C4244:         [
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(151,15): warning C4244:             T=unsigned int
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(151,15): warning C4244:         ]
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(153,15): warning C4244:  'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(153,15): warning C4244:         with
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(153,15): warning C4244:         [
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(153,15): warning C4244:             T=unsigned int
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(153,15): warning C4244:         ]
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(161,49): warning C4244:  '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(161,49): warning C4244:         with
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(161,49): warning C4244:         [
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(161,49): warning C4244:             T=unsigned int
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(161,49): warning C4244:         ]
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(163,49): warning C4244:  '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(163,49): warning C4244:         with
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(163,49): warning C4244:         [
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(163,49): warning C4244:             T=unsigned int
+C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\SFML Game Empty Start Point\Game.cpp(163,49): warning C4244:         ]
+  SFML Game Empty Start Point.vcxproj -> C:\Users\gameuser\Desktop\AI Labs\SFML Game Empty Start Point\SFML Game Empty Start Point\Debug\SFML AI LAB 1.exe
