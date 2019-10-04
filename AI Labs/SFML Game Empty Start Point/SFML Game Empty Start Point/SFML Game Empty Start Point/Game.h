@@ -1,4 +1,13 @@
-// author Peter Lowe
+//@Author Sean Nash de Andrade
+//@Login C00217019
+//Lab 1-3 AI.
+//Implemented Seek, Flee, Wander, Arrive, Pursue & Player Behaviours
+//Implemented Vision Cones
+//Time Taken: 5 Hours.
+//Known Issues: Because SFML can't draw circle segments the vision cones are triangles but the maths work of radii. 
+//This means that the player will be spotted outside the cone and not at the corners due to the limitations of the system. This is working as intended
+//This is the could be adjusted for by using polygon vertex arrays with more points but was judged good enough.
+
 #ifndef GAME
 #define GAME
 

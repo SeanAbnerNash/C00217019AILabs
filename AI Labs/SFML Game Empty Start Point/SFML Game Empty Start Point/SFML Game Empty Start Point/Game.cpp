@@ -1,4 +1,9 @@
-// author Peter Lowe
+//@Author Sean Nash de Andrade
+//@Login C00217019
+//Lab 1-3 AI.
+//Implemented Seek, Flee, Wander, Arrive, Pursue & Player Behaviours
+//Implemented Vision Cones
+//Time Taken: 5 Hours.
 
 #include "Game.h"
 #include <iostream>
@@ -13,6 +18,8 @@ Game::Game() :
 {
 	setupFontAndText(); // load font 
 	setupSprite(); // load texture
+
+	//Entities Setup
 	Player.setUpEntity(m_megaManSprite, m_megaManSprite.getPosition(), rand() % 360 + 1);
 	Player.setMaxSpeed(sf::Vector2f(10, 10));
 	Player.setMinSpeed(sf::Vector2f(-10, -10));
@@ -97,6 +104,8 @@ void Game::processEvents()
 		}
 
 	}
+
+	//Key Control Inputs
 	if (sf::Keyboard::isKeyPressed(sf::Keyboard::W))
 	{
 		Player.adjustVelocity(0.01);
@@ -214,6 +223,8 @@ void Game::setupSprite()
 		// simple error message if previous call fails
 		std::cout << "problem loading logo" << std::endl;
 	}
+
+	//Sprite Setup
 	m_megaManSprite.setTexture(m_megaManTexture);
 	m_megaManSprite.setOrigin(m_megaManSprite.getTexture()->getSize().x/2, m_megaManSprite.getTexture()->getSize().y/2);
 	float xScale = m_megaManSprite.getTexture()->getSize().x;// 1;

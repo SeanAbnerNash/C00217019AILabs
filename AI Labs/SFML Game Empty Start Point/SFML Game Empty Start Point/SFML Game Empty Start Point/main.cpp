@@ -1,8 +1,10 @@
 /// <summary>
-/// simple game loop for SFML[2.4.2]
-/// 
-/// @author Peter Lowe
-/// @date May 21017
+//@Author Sean Nash de Andrade
+//@Login C00217019
+//Lab 1-3 AI.
+//Implemented Seek, Flee, Wander, Arrive, Pursue & Player Behaviours
+//Implemented Vision Cones
+//Time Taken: 5 Hours.
 /// </summary>
 
 #ifdef _DEBUG 
@@ -23,7 +25,7 @@
 #include "Game.h"
 
 /// <summary>
-/// main enrtry point
+/// main entry point
 /// </summary>
 /// <returns>true</returns>
 int main()
